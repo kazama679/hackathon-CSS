@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans', sans-serif;
+}
+.Navbar{
+    padding: 20px;
+    display: flex;
+    width: 100%;
+    height: 64px;
+    justify-content: space-evenly;
+    color: rgb(49, 115, 173);
+}
+.top{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+.mid{
+    gap: 25px;
+}
+.right{
+    color: rgb(0, 195, 255);
+    border: 1px solid rgb(0, 195, 255);
+    width: 100px;
+    height: 30px;
+    border-radius: 5%;
+}
+.left{
+    gap: 5px;
+    color: black;
+}
+.Section-Hero{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    text-align: center;
+    margin-left: 200px;
+}
+.text{
+    width: 556px;
+    height: 848px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.text1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 15px;
+}
+.text2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 48px;
+}
+.text3{
+    margin-top: 15px;
+    border-radius: 4px;
+    background-color: rgb(0, 195, 255);
+    width: 120px;
+    height: 40px;
+    color: aliceblue;
+    padding-top: 9px;
+}
+.img{
+    display: flex;
+}
+.text4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 48px;
+    background-color: rgb(213, 237, 252);
+    width: 556px;
+    height: 848px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heart{
+    color: red;
+}
+
+.icon{
+    border-radius: 50%;
+    border: 3px solid rgb(177, 188, 192);
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    padding-left: 3px;
+    padding-bottom: 3px;
+}
+
+footer{
+    color: rgb(177, 188, 192);
+    background-color: rgb(2, 43, 80);
+    height: 500px;
+    width: 100%;
+}
+.left-footer{
+    display: flex;
+    gap: 5px;
+}
+
+
+.cap{
+    color: white;
+}
+
+.top-footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 150px;
+}
+.bot-footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 450px;
+}
+.end-text{
+    margin-top: 20px;
+}
+hr{
+    margin-bottom: 30px;
+    color: rgb(177, 188, 192);
+}
+.star{
+    color: red;
+}
+.right-footer{
+    display: flex;
+    color: rgb(58, 153, 255);
+}
+.icon2{
+    margin-top: 70px;
+    display: flex;
+    gap: 10px;
+}
+.icon1{
+    margin: 100px;
+}
+.text5{
+    margin-top: 30px;
+}
+.white{
+    width: 100%;
+    background-color: white;
+    height: 30px;
+    border-bottom-left-radius: 60%;
+    border-bottom-right-radius: 60%;
+    position: absolute;
+}
+
+.content{
+    width: 100%;
+    height: 300px;
+}
+.icon10{
+    border: 2px solid rgb(131, 166, 255);
+    border-radius: 50%;
+    color: rgb(131, 166, 255);
+    width: 30px;
+    height: 30px;
+    padding: 6px;
+    margin-top: 10px;
+}
+.right-content{
+    display: flex;
+}
+.dots{
+    margin-left: 20px;
+    margin-right: 15px;
+}
+.top-content{
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+    padding: 30px;
+}
+.color{
+    color:rgb(14, 96, 169)
+}
+.caption{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    border-bottom: 5px solid yellow;
+    width: 170px;
+}
+.text10{
+    margin-top: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(40, 75, 177);
+}
+.text11{
+    margin-top: 7px;
+}
+.img-light{
+    margin-bottom: 7px;
+    margin-left: 5px;
+}
